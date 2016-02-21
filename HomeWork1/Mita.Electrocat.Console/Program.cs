@@ -1,4 +1,4 @@
-﻿// Author: Vladimir Sibirtsev, MITA Desktop 15-03 
+﻿// Author: Vladimir Sibirtsev, MITA Desktop 15-01 
 // HomeWork1
 // Date: 20 nov 2015
 
