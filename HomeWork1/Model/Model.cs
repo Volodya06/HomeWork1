@@ -1,6 +1,6 @@
-﻿// Author: Alexey Boinskij, MITA Desktop 15-03
+﻿// Author: Vladimir Sibirtsev, MITA Desktop 15-01
 // HomeWork1 
-// Date: 25 oct 2015
+// Date: 20 nov 2015
 
 namespace Model
 {
